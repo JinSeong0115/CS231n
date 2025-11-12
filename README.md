@@ -16,9 +16,9 @@ The goal is to offer minimal yet complete solutions for key deep learning concep
 ## Main sources (official)
 
 - [Course page](http://cs231n.stanford.edu/)
-- [Assignments](http://cs231n.github.io/assignments2025/)
-- [Lecture notes](http://cs231n.github.io/)
-- [Lecture videos (2025)](https://www.youtube.com/@stanford-cs231n)
+- [Assignments](https://cs231n.stanford.edu/assignments.html)
+- [Lecture notes](https://cs231n.stanford.edu/schedule.html)
+- [Lecture videos (2025)](https://www.youtube.com/playlist?list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16)
 
 ---
 
