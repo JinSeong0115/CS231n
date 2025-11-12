@@ -25,28 +25,28 @@ The goal is to offer minimal yet complete solutions for key deep learning concep
 ## Solutions
 
 ### **Assignment 1**
-- [Q1](assignments/assignment1/Q1_knn.ipynb): *k-Nearest Neighbor classifier*
-- [Q2](assignments/assignment1/Q2_softmax.ipynb): *Implement a Softmax classifier*
-- [Q3](assignments/assignment1/Q3_two_layer_net.ipynb): *Two-Layer Neural Network*
-- [Q4](assignments/assignment1/Q4_features.ipynb): *Higher Level Representations: Image Features*
-- [Q5](assignments/assignment1/Q5_fully_connected.ipynb): *Training a Fully-Connected Network*
+- [Q1](assignment1/knn.ipynb): *k-Nearest Neighbor classifier*
+- [Q2](assignment1/softmax.ipynb): *Implement a Softmax classifier*
+- [Q3](assignment1/two_layer_net.ipynb): *Two-Layer Neural Network*
+- [Q4](assignment1/features.ipynb): *Higher Level Representations: Image Features*
+- [Q5](assignment1/FullyConnectedNets.ipynb): *Training a Fully-Connected Network*
 
 ---
 
 ### **Assignment 2**
-- [Q1](assignments/assignment2/Q1_batchnorm.ipynb): *Batch Normalization*
-- [Q2](assignments/assignment2/Q2_dropout.ipynb): *Dropout*
-- [Q3](assignments/assignment2/Q3_convnet.ipynb): *Convolutional Neural Networks*
-- [Q4](assignments/assignment2/Q4_pytorch_cifar10.ipynb): *PyTorch on CIFAR-10*
-- [Q5](assignments/assignment2/Q5_rnn_captioning.ipynb): *Image Captioning with Vanilla RNNs*
+- [Q1](assignment2/assignment2/BatchNormalization.ipynb): *Batch Normalization*
+- [Q2](assignment2/assignment2/Dropout.ipynb): *Dropout*
+- [Q3](assignment2/assignment2/ConvolutionalNetworks.ipynb): *Convolutional Neural Networks*
+- [Q4](assignment2/assignment2/PyTorch.ipynb): *PyTorch on CIFAR-10*
+- [Q5](assignment2/assignment2/RNN_Captioning_pytorch.ipynb): *Image Captioning with Vanilla RNNs*
 
 ---
 
 ### **Assignment 3**
-- [Q1](assignments/assignment3/Q1_transformer_captioning.ipynb): *Image Captioning with Transformers*
-- [Q2](assignments/assignment3/Q2_self_supervised.ipynb): *Self-Supervised Learning for Image Classification*
-- [Q3](assignments/assignment3/Q3_diffusion.ipynb): *Denoising Diffusion Probabilistic Models*
-- [Q4](assignments/assignment3/Q4_clip_dino.ipynb): *CLIP and DINO*
+- [Q1](assignment3/assignment3/Transformer_Captioning.ipynb): *Image Captioning with Transformers*
+- [Q2](assignment3/assignment3/Self_Supervised_Learning.ipynb): *Self-Supervised Learning for Image Classification*
+- [Q3](assignment3/assignment3/DDPM.ipynb): *Denoising Diffusion Probabilistic Models*
+- [Q4](assignment3/assignment3/CLIP_DINO.ipynb): *CLIP and DINO*
 
 ---
 
